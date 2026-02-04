@@ -1,4 +1,5 @@
 numpy
+pygame
 tensorflow
 tf-agents
 tf-keras
