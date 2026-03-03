@@ -3,3 +3,5 @@ pygame
 tensorflow
 tf-agents
 tf-keras
+matplotlib
+pandas
